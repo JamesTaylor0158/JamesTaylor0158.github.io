@@ -1,0 +1,23 @@
+
+
+button{
+    color: black;
+    background-color: green;
+    border-radius: 15px;
+    border: none;
+    margin: 5px;
+    padding: 10px 20px;
+    box-shadow: o 3px brown;
+    vertical-align: text-top;
+}
+button:hover{
+    color: white
+
+
+}
+button:active{
+    transform: translateY(2px);
+    box-shadow: 0 1px brown;
+    color: white;
+
+}
